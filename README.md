@@ -1,6 +1,6 @@
 # bookRecommenderSystem
 This is a basic Book Recommender System written in Python (*.ipynb). 
-+ The data set used can be fetched from here [here](http://www2.informatik.uni-freiburg.de/~cziegler/BX/)
++ The data set used can be fetched from [here](http://www2.informatik.uni-freiburg.de/~cziegler/BX/)
 * Right now it calculates covariance of a particular book with other books (_as a measure of similarity_).
 * Books having highest values of covariance are outputted
 
